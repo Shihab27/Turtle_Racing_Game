@@ -12,4 +12,4 @@ The project appears to be a Turtle Race Simulation built using Python's turtle m
 - *Implements a simple random movement mechanic to simulate racing.*</br>
 - *Displays the winner at the end of the race.*</br>
 
-<img align="center" width="850" height="160" src="https://github.com/Shihab27/Turtle_Racing_Game">
+<img align="center" width="400" height="270" src="https://github.com/Shihab27/Turtle_Racing_Game/blob/main/turtle_race_simulation.png">
